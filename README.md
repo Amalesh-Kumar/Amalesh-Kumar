@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Amalesh Kumar</h1>
 <h3 align="center">A passionate aspiring software developer from India</h3>
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="600"/>
+</p>
+
+
+- 👯 I’m looking to collaborate on **open source projects**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/amalesh kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amalesh kumar" height="30" width="40" /></a>
