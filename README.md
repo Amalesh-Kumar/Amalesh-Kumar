@@ -44,7 +44,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40"/>
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
@@ -72,11 +71,7 @@
 </p>
 
 <!-- ================= ML ================= -->
-<h3 align="left">🤖 Data Science & Machine Learning</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
-</p>
+
 
 <!-- ================= DESIGN ================= -->
 <h3 align="left">🎨 Design & UI Tools</h3>
@@ -86,15 +81,13 @@
 </p>
 
 <!-- ================= TOOLS ================= -->
-<h3 align="left">🧰 Development Tools</h3>
+<h3 align="left">🧰 Development Tools && 🖥️ Operating Systems</h3>
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/>
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+
 </p>
 
 <!-- ================= OS ================= -->
-<h3 align="left">🖥️ Operating Systems</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-</p>
+
 
